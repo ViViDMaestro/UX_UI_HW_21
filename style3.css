@@ -1,0 +1,276 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 3;
+    --web-view-id: Web_1920__3;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__3;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__3 {
+    position: absolute;
+    width: 1920px;
+    height: 1596px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 3;
+    --web-view-id: Web_1920__3;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Group_1 {
+    position: absolute;
+    width: 1724px;
+    height: 135px;
+    left: 98px;
+    top: -1px;
+    overflow: visible;
+}
+#Rectangle_2 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 1724px;
+    height: 135px;
+    left: 0px;
+    top: 0px;
+}
+#Video_Games {
+    left: 1255px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 140px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Photography_ {
+    left: 1430px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 134px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Cooking {
+    left: 1599px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 92px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(247,208,44,1);
+}
+#HOBBIES {
+    left: 122px;
+    top: 34px;
+    position: absolute;
+    overflow: visible;
+    width: 189px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(247,208,44,1);
+}
+#Rectangle_4 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(0,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 521px;
+    height: 740px;
+    left: 146px;
+    top: 731px;
+}
+#annie-spratt-UyEmagArOLY-unspl {
+    position: absolute;
+    width: 496px;
+    height: 331px;
+    left: 159px;
+    top: 750px;
+    overflow: visible;
+}
+#Rectangle_10 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(0,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 521px;
+    height: 739px;
+    left: 709px;
+    top: 731px;
+}
+#jonathan-borba-uB7q7aipU2o-uns {
+    position: absolute;
+    width: 496px;
+    height: 331px;
+    left: 722px;
+    top: 750px;
+    overflow: visible;
+}
+#Rectangle_11 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(0,0,0,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_11 {
+    position: absolute;
+    overflow: visible;
+    width: 521px;
+    height: 739px;
+    left: 1283px;
+    top: 731px;
+}
+#jimmy-dean-my1mDMraGf0-unsplas {
+    position: absolute;
+    width: 496px;
+    height: 331px;
+    left: 1296px;
+    top: 750px;
+    overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+    left: 166px;
+    top: 1157px;
+    position: absolute;
+    overflow: hidden;
+    width: 462px;
+    height: 287px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_v {
+    left: 733px;
+    top: 1157px;
+    position: absolute;
+    overflow: hidden;
+    width: 462px;
+    height: 287px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_w {
+    left: 1312px;
+    top: 1157px;
+    position: absolute;
+    overflow: hidden;
+    width: 462px;
+    height: 287px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Cooking_x {
+    left: 451px;
+    top: 293px;
+    position: absolute;
+    overflow: visible;
+    width: 1103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montana;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 300px;
+    color: rgba(255,255,255,1);
+}
+#toa-heftiba-oQvESMKUkzM-unspla {
+    position: absolute;
+    width: 1737px;
+    height: 489px;
+    left: 85px;
+    top: 134px;
+    overflow: visible;
+}
+#Rectangle_17 {
+    fill: rgba(255,202,0,1);
+}
+.Rectangle_17 {
+    position: absolute;
+    overflow: visible;
+    width: 98px;
+    height: 1596px;
+    left: -1px;
+    top: 0px;
+}
+#Rectangle_18 {
+    fill: rgba(255,202,0,1);
+}
+.Rectangle_18 {
+    position: absolute;
+    overflow: visible;
+    width: 98px;
+    height: 1596px;
+    left: 1822px;
+    top: 0px;
+}
+#Cooking_ {
+    left: 717px;
+    top: 294px;
+    position: absolute;
+    overflow: hidden;
+    width: 487px;
+    height: 170px;
+    text-align: center;
+    font-family: Alternate Gothic No1 D;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 130px;
+    color: rgba(255,255,255,1);
+}

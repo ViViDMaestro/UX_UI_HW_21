@@ -1,0 +1,277 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__1 {
+    position: absolute;
+    width: 1920px;
+    height: 1596px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Video_Games {
+    left: 461px;
+    top: 186px;
+    position: absolute;
+    overflow: visible;
+    width: 1103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 200px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_15 {
+    fill: rgba(254,215,0,1);
+}
+.Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 86px;
+    height: 1596px;
+    left: 1834px;
+    top: 0px;
+}
+#Rectangle_12 {
+    fill: rgba(254,215,0,1);
+}
+.Rectangle_12 {
+    position: absolute;
+    overflow: visible;
+    width: 98px;
+    height: 1596px;
+    left: 0px;
+    top: 0px;
+}
+#igor-karimov-2W0eSl3AAu0-unspl {
+    position: absolute;
+    width: 1736px;
+    height: 489px;
+    left: 98px;
+    top: 134px;
+    overflow: visible;
+}
+#Group_1 {
+    position: absolute;
+    width: 1736px;
+    height: 135px;
+    left: 98px;
+    top: -1px;
+    overflow: visible;
+}
+#Rectangle_2 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 1736px;
+    height: 135px;
+    left: 0px;
+    top: 0px;
+}
+#Video_Games_o {
+    left: 1255px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 140px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(247,208,44,1);
+}
+#Photography_ {
+    left: 1430px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 134px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#Cooking {
+    left: 1599px;
+    top: 55px;
+    position: absolute;
+    overflow: visible;
+    width: 92px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112,112,112,1);
+}
+#HOBBIES {
+    left: 122px;
+    top: 34px;
+    position: absolute;
+    overflow: visible;
+    width: 189px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(247,208,44,1);
+}
+#Rectangle_4 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 521px;
+    height: 693px;
+    left: 131px;
+    top: 825px;
+}
+#DSC00537 {
+    position: absolute;
+    width: 496px;
+    height: 331px;
+    left: 144px;
+    top: 836px;
+    overflow: visible;
+}
+#Rectangle_10 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 521px;
+    height: 693px;
+    left: 694px;
+    top: 825px;
+}
+#DSC00537_v {
+    position: absolute;
+    width: 496px;
+    height: 331px;
+    left: 707px;
+    top: 836px;
+    overflow: visible;
+}
+#Rectangle_11 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_11 {
+    position: absolute;
+    overflow: visible;
+    width: 521px;
+    height: 693px;
+    left: 1268px;
+    top: 825px;
+}
+#DSC00537_x {
+    position: absolute;
+    width: 496px;
+    height: 331px;
+    left: 1281px;
+    top: 836px;
+    overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+    left: 161px;
+    top: 1188px;
+    position: absolute;
+    overflow: hidden;
+    width: 462px;
+    height: 287px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_z {
+    left: 728px;
+    top: 1189px;
+    position: absolute;
+    overflow: hidden;
+    width: 462px;
+    height: 287px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ {
+    left: 1307px;
+    top: 1189px;
+    position: absolute;
+    overflow: hidden;
+    width: 462px;
+    height: 287px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(0,0,0,1);
+}
+#Video_Games_ {
+    left: 409px;
+    top: 229px;
+    position: absolute;
+    overflow: visible;
+    width: 1103px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Alternate Gothic No1 D;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 200px;
+    color: rgba(255,255,255,1);
+}
+
